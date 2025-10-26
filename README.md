@@ -1,7 +1,7 @@
 # ML_From_Scratch
 Machine Learning algorithm implementations from scratch.
 
-Algorithms Implemented
+## Algorithms Implemented
 KNN
 Linear Regression
 Logistic Regression
