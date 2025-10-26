@@ -14,8 +14,5 @@ Machine Learning algorithm implementations from scratch.
 ### K-Means
 ### AdaBoost
 ### Linear Discriminant Analysis (LDA)
-### Installation and usage.
-### This project has 2 dependencies.
-
 
 NOTE: Do note that, Only numpy is used for the implementations. Others help in the testing of code, and making it easy for us, instead of writing that too from scratch.
